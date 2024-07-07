@@ -74,17 +74,8 @@ Fetches and formats weather data from the OpenWeatherMap API.
 - **📍 Geolocation:** Click the location icon to fetch weather data for your current location.
 - **🌡️ Unit Conversion:** Click on the °C or °F buttons to switch between Celsius and Fahrenheit.
 
----
 
-Feel free to contribute and make this project better!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-*Made with ❤️ by [Your Name](https://github.com/yourusername)*
+*Made with ❤️ by [Rashmika](https://github.com/Rashmika-Jayarathna)*
 
 ---
 
@@ -99,4 +90,3 @@ By following these steps and utilizing these features, you’ll be able to get y
 
 ---
 
-![Weather Banner](https://via.placeholder.com/1200x300) <!-- Replace with your banner image -->
