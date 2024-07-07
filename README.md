@@ -2,7 +2,7 @@
 
 Welcome to the Weather Application! This app provides up-to-date weather information and forecasts for cities around the globe, using the power of React, TailwindCSS, and the OpenWeatherMap API.
 
-![Weather App Screenshot](https://via.placeholder.com/800x400) <!-- Replace with your app screenshot -->
+![Screenshot 2024-07-07 134220](https://github.com/Rashmika-Jayarathna/weather/assets/153979130/eee03274-f36b-4733-a03c-4f991f0acad9) <!-- Replace with your app screenshot -->
 
 ## 🚀 Features
 
